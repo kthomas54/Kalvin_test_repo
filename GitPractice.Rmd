@@ -1,0 +1,17 @@
+---
+title: "GitPractice"
+author: "Kalvin Thomas"
+date: "9/21/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(ggplot2)
+
+```
+
+## GitHub Test File
